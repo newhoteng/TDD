@@ -68,11 +68,6 @@ To run rubocop
 bundle exec rubocop (On Mac)
 ```
 
-To run the project, execute the following command:<br>
-- Type `irb` inside the termimal to open Interactive Ruby
-- Copy and paste expressions from `.rb` files into terminal and check their results (press enter after typing each one)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## :busts_in_silhouette: Authors <a name="authors"></a>
