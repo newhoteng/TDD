@@ -52,6 +52,22 @@ git clone https://github.com/newhoteng/TDD.git
 ```
 
 ### Usage
+
+Install RSpec
+```
+gem install rspec
+```
+
+To run tests
+```
+rspec `filename` 
+```
+
+To run rubocop
+```
+bundle exec rubocop (On Mac)
+```
+
 To run the project, execute the following command:<br>
 - Type `irb` inside the termimal to open Interactive Ruby
 - Copy and paste expressions from `.rb` files into terminal and check their results (press enter after typing each one)
